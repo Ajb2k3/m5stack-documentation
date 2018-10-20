@@ -4,7 +4,7 @@
 
 The ESP32CAM is a tiny module based on ESP32 chip and OV2640. You can even program the ESP32CAM through the ESP-IDF by installing the ESP32 Core.
  
-The ESP32CAM equips the ESP32 with everything necessary to program, run and develop on the wonderful chip. It also features a LiPo charger (IP5306) , so your ESP32CAM project can be battery-powered and truly wireless. Additionally, the board reserved the MPU6050,BME280 and an analog MIC.
+The ESP32CAM equips the ESP32 with everything necessary to program, run and develop on the wonderful chip. It also features a LiPo charger (IP5306) , so your ESP32CAM project can be battery-powered and truly wireless. Additionally, the board contains pcb track footprints reserved the addition of the MPU6050,BME280 and an analog MIC as optional extra.
 
 
 ## INCLUDES
